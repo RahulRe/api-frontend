@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from 'axios'
-import Item from "../components/item";
+import Item from "../components/Item";
 import {Link} from "react-router-dom"
 import {VITE_BACKEND_URL } from "../App";
 
